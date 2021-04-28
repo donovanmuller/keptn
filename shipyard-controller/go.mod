@@ -3,7 +3,7 @@ module github.com/keptn/keptn/shipyard-controller
 go 1.13
 
 require (
-	github.com/cloudevents/sdk-go/v2 v2.3.1
+	github.com/cloudevents/sdk-go/v2 v2.4.1
 	github.com/ghodss/yaml v1.0.0
 	github.com/gin-gonic/gin v1.6.3
 	github.com/go-openapi/errors v0.19.9
@@ -15,7 +15,6 @@ require (
 	github.com/golang/protobuf v1.4.3 // indirect
 	github.com/google/uuid v1.2.0
 	github.com/jeremywohl/flatten v0.0.0-20190921043622-d936035e55cf
-	github.com/json-iterator/go v1.1.10 // indirect
 	github.com/keptn/go-utils v0.8.3
 	github.com/leodido/go-urn v1.2.1 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
